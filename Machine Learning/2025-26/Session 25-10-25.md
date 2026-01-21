@@ -1,5 +1,5 @@
 # Session of Machine Learning Division of CyberLabs
-Conducted on: 19/10/2025
+Conducted on: 25/10/2025
 
 ## Agenda
 SimCLR v1, SimCLR v2, Contrastive Learning, Self-Supervised Representation Learning
